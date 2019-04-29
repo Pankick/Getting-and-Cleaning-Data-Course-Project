@@ -11,6 +11,8 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 How the R script called run_analysis.R works:
 
+0. Prepration step: read all needed data sets from current directory.
+
 1. Merges the training and the test sets to create one data set.
 
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
